@@ -9,10 +9,10 @@ The immune system undergoes progressive functional remodeling from neonatal stag
 All the necessary data and code to reproduce the analysis and figures presented in this paper are available at https://doi.org/10.5281/zenodo.13838466. 
 
 # PHARE model
-All cells received cell annotation based on Panage_data, and then the proportion of all immune cell types was calculated to train the PHARE model (https://github.com/cliffren/PHARE).
 
 We developed a novel physiological age prediction model (PHARE) using PBMC single-cell transcriptome data from healthy individuals, leveraging a machine learning approach.
 
+All cells received cell annotation based on Panage_data, and then the proportion of all immune cell types was calculated to train the PHARE model (https://github.com/cliffren/PHARE).
 
 ![image](https://github.com/user-attachments/assets/d70b990a-f53b-40f3-916c-ad8a58f2ecd4)
 
