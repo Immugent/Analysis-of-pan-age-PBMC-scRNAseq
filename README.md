@@ -5,7 +5,7 @@ The immune system undergoes progressive functional remodeling from neonatal stag
 This repository store all the necessary data and codes to reproduce the analysis and figures presented in this paper. Other big datasets are available at https://doi.org/10.5281/zenodo.13838466. 
 
 
-![image](https://github.com/user-attachments/assets/bff90676-5d49-4dc6-8777-8234d44153a4)
+![image](https://github.com/user-attachments/assets/a62c48bf-c140-4540-8822-e1b4c8812a9f)
 
 
 
