@@ -22,6 +22,8 @@ The web version of the PHARE tool is available at: https://xiazlab.org/phare/.
 # REFERENCE 
 Please cite this paper if you use our data or code.
 
+Zhang C, Ren T, Zhao X, Su Y, Wang Q, Zhang T, He B, Chen Y, Wu LY, Sun L, Zhang B, Xia Z. Biologically informed machine learning modeling of immune cells to reveal physiological and pathological aging process. Immun Ageing. 2024 Oct 24;21(1):74. doi: 10.1186/s12979-024-00479-4. PMID: 39449067.
+
 Cangang Zhang, Tao Ren, Xiaofan Zhao, Yanhong Su, Qianhao Wang, Tianzhe Zhang, Boxiao He, Ling-Yun Wu, Lina Sun, Baojun Zhang, Zheng Xia. Biologically informed machine learning modeling of immune cells to reveal physiological and pathological aging process, bioRxiv 2024.04.01.587649; doi: https://doi.org/10.1101/2024.04.01.587649.
 
 # Contact us
